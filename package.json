@@ -1,0 +1,16 @@
+{
+  "name": "getting-started-todo-app",
+  "version": "1.0.0",
+  "description": "A simple todo app with Node.js and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node server.js",
+    "start": "node server.js",
+    "test": "echo \"No tests specified yet\"",
+    "lint": "echo \"No linter configured\"",
+    "build": "echo \"Build step\""
+  },
+  "keywords": ["todo", "app"],
+  "author": "",
+  "license": "ISC"
+}
